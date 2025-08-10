@@ -186,12 +186,12 @@
         <div class="pricing">
             <div class="price-card">
                 <h3>Basic</h3>
-                <div class="price">€29/Monat</div>
+                <div class="price">€49/Monat</div>
                 <p>Für Einzelunternehmer, die einfache Terminbuchung brauchen.</p>
             </div>
             <div class="price-card">
                 <h3>Pro</h3>
-                <div class="price">€59/Monat</div>
+                <div class="price">€99/Monat</div>
                 <p>Für kleine Teams mit erweiterten Funktionen.</p>
             </div>
             <div class="price-card">
